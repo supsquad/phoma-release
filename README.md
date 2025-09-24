@@ -1,11 +1,5 @@
-# Phoma App v1.1.0
-
-## Feature
-
-- Add redeem code for plan giveaway
-- Add crypto payment method
+# Phoma App v1.1.1
 
 ## Improve
 
-- Windows icon quality
-- Payment table responsive
+- Require login when redeem code
