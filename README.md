@@ -2,4 +2,6 @@
 
 ## Improve
 
-- Require login when redeem code
+- Fix stream old android version
+- Change small screen resolution and default settings
+- Optimize install automation apk
