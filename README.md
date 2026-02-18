@@ -1,5 +1,5 @@
-# Phoma App v1.1.3
+# Phoma App v1.1.4
 
 ## Improve
 
-- Update Uiautomator apk
+- Fix hang up when run flow
