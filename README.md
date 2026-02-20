@@ -1,5 +1,5 @@
-# Phoma App v1.1.5
+# Phoma App v1.1.6
 
 ## Improve
 
-- Fix edge not show when open flow
+- Fix editor flow display
