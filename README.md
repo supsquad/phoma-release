@@ -19,6 +19,22 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.12 — 2026-11-11
+
+**English**
+
+- **About**: see what an update brings before you install it, release by release, and what the version you are on changed.
+- **About**: a cleaner screen, with your version and release channel, the update and its download progress, the links, and the terms and privacy pages.
+- **About**: when Phoma can't check for updates, the screen says so and offers **Try again**.
+- **Name**: the app is now called **Phoma**, in the Start menu, the window title, the tray and Windows notifications. Updating keeps the app where it is installed and replaces the old "Phoma App" shortcut. If you pinned the app to the taskbar, pin it again once after updating.
+
+**Tiếng Việt**
+
+- **Thông tin**: xem bản cập nhật có gì mới trước khi cài, theo từng phiên bản, và phiên bản đang dùng đã thay đổi những gì.
+- **Thông tin**: màn hình gọn hơn, có phiên bản và kênh phát hành, bản cập nhật kèm tiến độ tải, các liên kết, điều khoản và chính sách quyền riêng tư.
+- **Thông tin**: khi Phoma không kiểm tra được bản cập nhật, màn hình báo rõ và có nút **Thử lại**.
+- **Tên app**: app giờ tên là **Phoma**, trong Start menu, tiêu đề cửa sổ, khay hệ thống và thông báo của Windows. Cập nhật giữ nguyên thư mục đã cài và thay shortcut "Phoma App" cũ. Nếu bạn đã ghim app lên taskbar, hãy ghim lại một lần sau khi cập nhật.
+
 ### v2.0.0-beta.11 — 2026-11-09
 
 **English**
