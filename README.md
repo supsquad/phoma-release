@@ -1,4 +1,4 @@
-# Phoma App
+# Phoma
 
 Desktop app for Android automation — control phones, inspect layouts, build
 drag-and-drop automation flows, and run them as tasks.
@@ -15,7 +15,7 @@ Pre-releases are beta builds.
 
 ## Release notes
 
-What each release changes, newest first. Phoma App shows these notes on its
+What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
